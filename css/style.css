@@ -4,5 +4,9 @@ body {
 body h1 {
   font-size: 100px;
 }
+body h2 {
+  font-size: 15px;
+  color: white;
+}
 
 /*# sourceMappingURL=style.css.map */
